@@ -7,6 +7,13 @@
 * [Список вопросов с ответами (3)](https://blweb.ru/blog/sobesedovaniya-na-middle-java-razrabotchika)
 * [Вопросы без ответов](http://itmozg.ru/news/1306/)
 
+## Garbage Collector
+* [finalize()]()
+* [Метод потомков](https://jsehelper.blogspot.com/2016/01/java-core-1.html)
+* [Первая](https://habr.com/ru/post/269621/) в связке со [Второй](https://habr.com/en/post/269707/)
+* [Про Heap и Stack](http://java-online.ru/garbage-collection.xhtml)
+* [Кратко и красиов](https://ziginsider.github.io/Garbage_Collector_Java/)
+
 ## String
 * [String.intern()](https://habr.com/ru/post/79913/)
 
