@@ -6,6 +6,7 @@
 * [Общие вопросы](https://tproger.ru/translations/top-25-phone-interview-questions/)
 * [Список вопросов с ответами (3)](https://blweb.ru/blog/sobesedovaniya-na-middle-java-razrabotchika)
 * [Вопросы без ответов](http://itmozg.ru/news/1306/)
+* [Часто задаваемые вопросы](https://javarush.ru/groups/posts/2002-23-voprosa-chasto-zadavaemihkh-na-sobesedovanijakh)
 
 ## Garbage Collector
 * [finalize()]()
