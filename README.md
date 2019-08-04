@@ -21,6 +21,7 @@
 * [Разные вопросы с собеседований](https://sohabr.net/habr/post/162017/)
 * [Иерархия коллекций с картинками](http://www.quizful.net/post/Java-Collections)
 * [Список вопросов(1)](http://javastudy.ru/interview/collections/)
+* [Список вопросов(2)](http://www.quizful.net/interview/java/?page=0)
 
   ### LinkedList
   * [Первая ссылка](https://habr.com/en/post/127864/)
