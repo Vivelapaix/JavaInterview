@@ -3,8 +3,9 @@
 * [Список вопросов с ответами (1)](https://jsehelper.blogspot.com/2016/01/blog-post_59.html)
 * [Список вопросов с ответами (2)](http://javastudy.ru/interview/list-of-question-java-interview/)
 * [Список вопросов с ответами (3)](http://javaway.info/voprosi-k-sobesedovaniyu-java-junior/)
+* [Список вопросов с ответами (4)](https://blweb.ru/blog/sobesedovaniya-na-middle-java-razrabotchika)
+* [Список вопросов с ответами (5)](https://github.com/enhorse/java-interview)
 * [Общие вопросы](https://tproger.ru/translations/top-25-phone-interview-questions/)
-* [Список вопросов с ответами (3)](https://blweb.ru/blog/sobesedovaniya-na-middle-java-razrabotchika)
 * [Вопросы без ответов](http://itmozg.ru/news/1306/)
 * [Часто задаваемые вопросы](https://javarush.ru/groups/posts/2002-23-voprosa-chasto-zadavaemihkh-na-sobesedovanijakh)
 
