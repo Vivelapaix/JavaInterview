@@ -9,6 +9,7 @@
 * [Вопросы без ответов](http://itmozg.ru/news/1306/)
 * [Часто задаваемые вопросы](https://javarush.ru/groups/posts/2002-23-voprosa-chasto-zadavaemihkh-na-sobesedovanijakh)
 * [Вопросы с кодом](https://github.com/ShapovalovIgor/Test_task_interview)
+* [Вопросы с кодом](https://prog.kiev.ua/forum/index.php?topic=53.0)
 
 ## Garbage Collector
 * [finalize()]()
