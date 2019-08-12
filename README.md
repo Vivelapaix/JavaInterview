@@ -8,6 +8,7 @@
 * [Общие вопросы](https://tproger.ru/translations/top-25-phone-interview-questions/)
 * [Вопросы без ответов](http://itmozg.ru/news/1306/)
 * [Часто задаваемые вопросы](https://javarush.ru/groups/posts/2002-23-voprosa-chasto-zadavaemihkh-na-sobesedovanijakh)
+* [Вопросы с кодом](https://github.com/ShapovalovIgor/Test_task_interview)
 
 ## Garbage Collector
 * [finalize()]()
