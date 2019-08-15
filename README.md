@@ -41,3 +41,9 @@
 * [Список вопросов с ответами(1)](http://javastudy.ru/interview/concurrent/)
   ### Happens-before volatile
   * [Первая ссылка](http://www.javaspecialist.ru/2011/06/java-memory-model.html)
+  
+  
+## Design Patterns
+
+* [Examples](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples)
+* [Singleton](https://habr.com/ru/post/129494/)
